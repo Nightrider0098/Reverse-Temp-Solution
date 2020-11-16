@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" time="4.776">
+  <testsuite name="Test working of Timer" errors="0" failures="0" skipped="0" timestamp="2020-11-16T04:42:04" time="3.585" tests="7">
+    <testcase classname="Test working of Timer Functional component returned by App.js should not break when mounted." name="Test working of Timer Functional component returned by App.js should not break when mounted." time="0.025">
+    </testcase>
+    <testcase classname="Test working of Timer On enter keyboard-event in the input field the current-time(div) should be updated." name="Test working of Timer On enter keyboard-event in the input field the current-time(div) should be updated." time="0.014">
+    </testcase>
+    <testcase classname="Test working of Timer Timer should decrement time after 1 sec and update current-time(div)." name="Test working of Timer Timer should decrement time after 1 sec and update current-time(div)." time="0.01">
+    </testcase>
+    <testcase classname="Test working of Timer Timer should stop at zero (should not count -1,-2,-3...)." name="Test working of Timer Timer should stop at zero (should not count -1,-2,-3...)." time="0.014">
+    </testcase>
+    <testcase classname="Test working of Timer If a new timer is started before last timer is finished then our code should terminate the previous timer and start the a new one." name="Test working of Timer If a new timer is started before last timer is finished then our code should terminate the previous timer and start the a new one." time="0.087">
+    </testcase>
+    <testcase classname="Test working of Timer If 0 is entered in input field then timer should not terminate last timer and show zero on current-time(div)." name="Test working of Timer If 0 is entered in input field then timer should not terminate last timer and show zero on current-time(div)." time="0.009">
+    </testcase>
+    <testcase classname="Test working of Timer If a invalid input is entered then timer should show zero in current-time(div)." name="Test working of Timer If a invalid input is entered then timer should show zero in current-time(div)." time="0.012">
+    </testcase>
+  </testsuite>
+</testsuites>
